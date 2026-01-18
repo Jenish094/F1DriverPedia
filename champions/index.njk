@@ -1,0 +1,14 @@
+---
+layout: layouts/base.njk
+title: World Champions
+---
+
+<h2>World Champions</h2>
+
+<section class="champion-list">
+    <ul>
+      {% for champ in champions %}
+        <li><a href="/champions/{{ champ.id }}/">{{ champ.name }} ({{ champ.country }})</a></li>
+      {% endfor %}
+    </ul>
+</section>

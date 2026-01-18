@@ -1,0 +1,32 @@
+---
+pagination:
+  data: years
+  size: 1
+  alias: year
+layout: layouts/base.njk
+permalink: "/drivers/by-year/{{ year }}/index.html"
+---
+
+<h2>Drivers who competed in {{ year }}</h2>
+
+{% set matched = false %}
+<section class="driver-list">
+  {% for d in drivers %}
+    {% set hasYear = false %}
+    {% if d.years and (year in d.years) %}
+      {% set hasYear = true %}
+    {% elif d.seasons and (year in d.seasons) %}
+      {% set hasYear = true %}
+    {% elif d['competed years'] and (year in d['competed years']) %}
+      {% set hasYear = true %}
+    {% elif d['years'] and (year in d['years']) %}
+      {% set hasYear = true %}
+    {% endif %}
+
+    {% if hasYear %}
+      {% set matched = true %}
+      {% set driver = d %}
+      {% include "driver-card.njk" %}
+    {% endif %}
+  {% endfor %}
+</section>

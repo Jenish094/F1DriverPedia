@@ -1,0 +1,28 @@
+---
+layout: layouts/base.njk
+title: Home
+---
+
+<h2>All Drivers</h2>
+
+{% if drivers and drivers | length > 0 %}
+  <p>Showing {{ drivers | length }} drivers.</p>
+  <section class="driver-list">
+    {% for d in drivers %}
+      {% set driver = d %}
+      <a class="driver-link" href="/drivers/{{ driver.driverId }}/">
+            <article class="driver-card-mini">
+              {% if driver.image %}
+                <img src="{{ driver.image }}" alt="{{ driver | fullName }}" class="driver-thumb" />
+              {% else %}
+                <div class="driver-thumb placeholder"></div>
+              {% endif %}
+              <h3>{{ driver | fullName }}</h3>
+              <p class="meta">{{ driver.nationality or '-' }} • #{{ driver.permanentNumber or '-' }}</p>
+            </article>
+      </a>
+    {% endfor %}
+  </section>
+{% else %}
+  <p>No data</p>
+{% endif %}

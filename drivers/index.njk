@@ -1,0 +1,20 @@
+---
+layout: layouts/base.njk
+title: Drivers
+---
+
+<h2>Drivers</h2>
+<p>List of drivers</p>
+
+<div class="controls">
+  <a class="simplify-button" href="/drivers/by-year/">Simplify</a>
+  <input id="driver-search" placeholder="Search drivers by name" />
+</div>
+
+<section class="driver-list">
+  {% if drivers and drivers | length > 0 %}
+    {% for driver in drivers %}
+      {% include "driver-card.njk" %}
+    {% endfor %}
+  {% endif %}
+</section>

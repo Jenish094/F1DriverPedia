@@ -1,0 +1,16 @@
+---
+pagination:
+  data: champions
+  size: 1
+  alias: champ
+permalink: "/champions/{{ champ.id }}/index.html"
+---
+
+<article class="champion-detail">
+  <h2>{{ champ.name }}</h2>
+  <p><strong>Country:</strong> {{ champ.country }}</p>
+  <p><strong>Years:</strong> {{ champ.years}}</p>
+  <section>
+    <p></p>
+  </section>
+</article>

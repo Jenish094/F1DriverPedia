@@ -1,0 +1,13 @@
+---
+layout: layouts/base.njk
+title: Drivers by Year
+---
+
+<h2>Drivers by Year (2000–2026)</h2>
+<p>Click a year to see drivers who competed that season.</p>
+
+<section class="years-grid">
+  {% for y in years %}
+    <a class="year-card" href="/drivers/by-year/{{ y }}/">{{ y }}</a>
+  {% endfor %}
+</section>

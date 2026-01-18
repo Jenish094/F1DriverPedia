@@ -1,0 +1,53 @@
+<article class="driver-card">
+  <a href="/drivers/{{ driver.driverId }}/">
+    {% if driver.image %}
+      <img src="{{ driver.image }}" alt="Photo of {{ driver | fullName }}" class="driver-thumb" />
+    {% endif %}
+    <h3>{{ driver | fullName }}</h3>
+  </a>
+
+  <div class="driver-meta">
+    <p><strong>ID:</strong> {{ driver.driverId}}</p>
+    <p><strong>Given name:</strong> {{ driver.givenName}}</p>
+    <p><strong>Family name:</strong> {{ driver.familyName}}</p>
+    {% if driver.permanentNumber %}
+        <p><strong>Permanent number:</strong> {{ driver.permanentNumber}}</p>
+    {% else %}
+    {% endif %}
+    <p><strong>Nationality:</strong> {{ driver.nationality}}</p>
+    <p><strong>Code:</strong> {{ driver.code}}</p>
+    <p><strong>Date of birth:</strong> {{ driver.dateOfBirth}}</p>
+  </div>
+
+  {% if driver.bio %}
+    <section class="driver-bio">
+      <h4>Bio</h4>
+      <p>{{ driver.bio }}</p>
+    </section>
+  {% endif %}
+
+  <ul class="driver-stats">
+    <li><strong>Teams:</strong> {% if driver.teams %}{{ driver.teams | join(', ') }}{% else %}-{% endif %}</li>
+    <li><strong>Championships:</strong> {% if driver.championships %}{{ driver.championships | join(', ') }}{% else %}-{% endif %}</li>
+    <li><strong>Podiums:</strong>
+      {% if driver.podiums is defined %}
+        {{ driver.podiums }}
+      {% elif driver['podiums'] is defined %}
+        {{ driver['podiums'] }}
+      {% else %}
+        -
+      {% endif %}
+    </li>
+    <li><strong>Race wins:</strong>
+      {% if driver.wins is defined %}
+        {{ driver.wins }}
+      {% elif driver['race wins'] is defined %}
+        {{ driver['race wins'] }}
+      {% elif driver['raceWins'] is defined %}
+        {{ driver['raceWins'] }}
+      {% else %}
+        -
+      {% endif %}
+    </li>
+  </ul>
+</article>
