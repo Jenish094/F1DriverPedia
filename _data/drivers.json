@@ -558,6 +558,7 @@
 	"familyName": "Alonso",
 	"nationality": "Spanish",
 	"code": "ALO",
+	"permanentNumber": "14",
 	"dateOfBirth": "1981-07-29",
 	"careerYears": "2001, 2003-2018, 2021-2026",
     "years": [2001, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2021, 2022, 2023, 2024, 2025, 2026],
@@ -631,5 +632,156 @@
 	"raceWins": 0,
 	"podiums": 0,
 	"image": "/assets/images/drivers/allan_mcnish.jpg"
+},
+{
+	"driverId": "ralph_firman",
+	"givenName": "Ralph",
+	"familyName": "Firman",
+	"nationality": "Irish",
+	"code": "FIR",
+	"dateOfBirth": "1975-05-20",
+	"careerYears": "2003",
+    "years": [2003],
+	"bio": "Irish racing driver primarily knoen for being son of Ralph Firman Sr who co-founded Van Diemen. Ralph Firman Jr raced for Jordan Formula 1 in 2003",
+	"constructors": [
+        "Jordan-Ford"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/ralph_firman.jpg"
+},
+{
+	"driverId": "zsolt_baumgartner",
+	"givenName": "Zsolt",
+	"familyName": "Baumgartner",
+	"nationality": "Hungarian",
+	"code": "BAU",
+	"dateOfBirth": "1981-01-01",
+	"careerYears": "2003-2004",
+    "years": [2003, 2004],
+	"bio": " Hungarian Formula One driver who raced for Jordan and Minardi during the 2003 and 2004 seasons.",
+	"constructors": [
+        "Jordan-Honda",
+		"Minardi-Cosworth"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/zsolt_baumgartner.jpg"
+},
+{
+	"driverId": "antonio_pizzonia",
+	"givenName": "Antônio",
+	"familyName": "Pizzonia",
+	"nationality": "Brazilian",
+	"code": "PIZ",
+	"dateOfBirth": "1980-09-11",
+	"careerYears": "2003-2005",
+    "years": [2003, 2004, 2005],
+	"bio": "A Brazilian Formula One driver who raced for Jordan and Williams from 2003 to 2005.",
+	"constructors": [
+        "Jaguar-Cosworth",
+        "Williams-BMW"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/antonio_pizzonia.jpg"
+},
+{
+	"driverId": "justin_wilson",
+	"givenName": "Justin",
+	"familyName": "Wilson",
+	"nationality": "British",
+	"code": "WIL",
+	"dateOfBirth": "1978-07-31",
+	"careerYears": "2003",
+    "years": [2003],
+	"bio": "A British Formula One driver who raced for Minardi and died in a crash during an IndyCar race at Pocono in 2015",
+	"constructors": [
+		"Minardi-Cosworth",
+		"Jaguar-Cosworth"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/justin_wilson.jpg"
+},
+{
+	"driverId": "Nicolas_Kiesa",
+	"givenName": "Nicolas",
+	"familyName": "Kiesa",
+	"nationality": "Danish",
+	"code": "KIE",
+	"dateOfBirth": "1978-03-03",
+	"careerYears": "2003",
+    "years": [2003],
+	"bio": "A Danish Formula One driver who raced for Minardi for 4 races and was a test driver for Jordan in 2003",
+	"constructors": [
+		"Minardi-Cosworth"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/nicolas_kiesa.jpg"
+},
+{
+	"driverId": "cristiano_da_matta",
+	"givenName": "Cristiano Monteiro",
+	"familyName": "da Matta",
+	"nationality": "Brazilian",
+	"code": "DAM",
+	"dateOfBirth": "1973-09-19",
+	"careerYears": "2003-2004",
+    "years": [2003, 2004],
+	"bio": "A Brazilian Formula One driver who raced for Toyota during the 2003 and 2004 seasons.",
+	"constructors": [
+		"Toyota"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/cristiano_da_matta.jpg"
+},
+{
+	"driverId": "felipe_massa",
+	"givenName": "Felipe",
+	"familyName": "Massa",
+	"nationality": "Brazilian",
+	"code": "MAS",
+	"permanentNumber": 19,
+	"dateOfBirth": "1981-04-25",
+	"careerYears": "2002, 2004-2017",
+    "years": [2002, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017],
+	"bio": "A Brazilian Formula One driver who was runner up in the 2008 World Championship driving for Ferrari (they celebrated too early at sao paulo)",
+	"constructors": [
+		"Sauber-Petronas",
+		"Ferrari",
+		"Williams-Mercedes"
+	],
+	"championships": [],
+	"raceWins":11,
+	"podiums": 41,
+	"image": "/assets/images/drivers/felipe_massa.jpg"
+},
+{
+	"driverId": "christian_klein",
+	"givenName": "Christian",
+	"familyName": "Klein",
+	"nationality": "Austrian",
+	"code": "WIL",
+	"dateOfBirth": "1978-07-31",
+	"careerYears": "2003",
+    "years": [2003],
+	"bio": "A British Formula One driver who raced for Minardi and died in a crash during an IndyCar race at Pocono in 2015",
+	"constructors": [
+		"Minardi-Cosworth",
+		"Jaguar-Cosworth"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/justin_wilson.jpg"
 }
 ]
