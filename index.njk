@@ -10,10 +10,10 @@ title: Home
   <section class="driver-list">
     {% for d in drivers %}
       {% set driver = d %}
-      <a class="driver-link" href="/drivers/{{ driver.driverId }}/">
+      <a class="driver-link" href="{{ site.baseUrl }}drivers/{{ driver.driverId }}/">
             <article class="driver-card-mini">
               {% if driver.image %}
-                <img src="{{ driver.image }}" alt="{{ driver | fullName }}" class="driver-thumb" />
+                <img src="{{ site.baseUrl }}{{ driver.image }}" alt="{{ driver | fullName }}" class="driver-thumb" />
               {% else %}
                 <div class="driver-thumb placeholder"></div>
               {% endif %}

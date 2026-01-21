@@ -8,7 +8,7 @@ title: World Champions
 <section class="champion-list">
     <ul>
       {% for champ in champions %}
-        <li><a href="/champions/{{ champ.id }}/">{{ champ.name }} ({{ champ.country }})</a></li>
+        <li><a href="{{ site.baseUrl }}champions/{{ champ.id }}/">{{ champ.name }} ({{ champ.country }})</a></li>
       {% endfor %}
     </ul>
 </section>

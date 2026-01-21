@@ -1,3 +1,4 @@
+# deploy on self host
 name: Deploy website to apache server
 
 on:
