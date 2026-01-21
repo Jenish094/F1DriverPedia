@@ -839,7 +839,7 @@
 	"championships": [],
 	"raceWins": 0,
 	"podiums": 0,
-	"image": "/assets/images/drivers/nicolas_kiesa.jpg"
+	"image": "/assets/images/drivers/gianmaria_bruni.jpg"
 },
 {
 	"driverId": "anthony_davidson",
@@ -1030,7 +1030,7 @@
 	"championships": [],
 	"raceWins": 0,
 	"podiums": 0,
-	"image": "/assets/images/drivers/nicolas_kiesa.jpg"
+	"image": "/assets/images/drivers/frank_montagny.jpg"
 },
 {
 	"driverId": "sakon_yamamoto",
@@ -1094,24 +1094,6 @@
 	"image": "/assets/images/drivers/lewis_hamilton.jpg"
 },
 {
-	"driverId": "Nicolas_Kiesa",
-	"givenName": "Nicolas",
-	"familyName": "Kiesa",
-	"nationality": "Danish",
-	"code": "KIE",
-	"dateOfBirth": "1978-03-03",
-	"careerYears": "2003",
-    "years": [2003],
-	"bio": "A Danish Formula One driver who raced for Minardi for 4 races and was a test driver for Jordan in 2003",
-	"constructors": [
-		"Minardi-Cosworth"
-	],
-	"championships": [],
-	"raceWins": 0,
-	"podiums": 0,
-	"image": "/assets/images/drivers/nicolas_kiesa.jpg"
-},
-{
 	"driverId": "kimi_raikkonen",
 	"givenName": "Kimi",
 	"familyName": "Raikkonen",
@@ -1133,24 +1115,6 @@
 	"raceWins": 21,
 	"podiums": 103,
 	"image": "/assets/images/drivers/kimi_raikkonen.jpg"
-},
-{
-	"driverId": "Nicolas_Kiesa",
-	"givenName": "Nicolas",
-	"familyName": "Kiesa",
-	"nationality": "Danish",
-	"code": "KIE",
-	"dateOfBirth": "1978-03-03",
-	"careerYears": "2003",
-    "years": [2003],
-	"bio": "A Danish Formula One driver who raced for Minardi for 4 races and was a test driver for Jordan in 2003",
-	"constructors": [
-		"Minardi-Cosworth"
-	],
-	"championships": [],
-	"raceWins": 0,
-	"podiums": 0,
-	"image": "/assets/images/drivers/nicolas_kiesa.jpg"
 },
 {
 	"driverId": "sebastian_vettel",
@@ -1541,25 +1505,6 @@
 	"image": "/assets/images/drivers/pastor_maldonado.jpg"
 },
 {
-	"driverId": "jerome_dan",
-	"givenName": "Jerome",
-	"familyName": "D'Ambrosio",
-	"nationality": "Belgian",
-	"code": "DAM",
-	"dateOfBirth": "1985-12-06",
-	"careerYears": "2011-2012",
-    "years": [2011, 2012],
-	"bio": "A Belgian Formula One driver who raced for Virgin and Lotus.",
-	"constructors": [
-		"Virgin-Cosworth",
-		"Lotus-Renault"
-	],
-	"championships": [],
-	"raceWins": 0,
-	"podiums": 0,
-	"image": "/assets/images/drivers/jerome_dambrosio.jpg"
-},
-{
 	"driverId": "romain_grosjean",
 	"givenName": "Romain",
 	"familyName": "Grosjean",
@@ -1729,24 +1674,5 @@
 	"raceWins": 10,
 	"podiums": 67,
 	"image": "/assets/images/drivers/valterri_bottas.jpg"
-},
-{
-	"driverId": "jerome_dan",
-	"givenName": "Jerome",
-	"familyName": "D'Ambrosio",
-	"nationality": "Belgian",
-	"code": "DAM",
-	"dateOfBirth": "1985-12-06",
-	"careerYears": "2011-2012",
-    "years": [2011, 2012],
-	"bio": "A Belgian Formula One driver who raced for Virgin and Lotus.",
-	"constructors": [
-		"Virgin-Cosworth",
-		"Lotus-Renault"
-	],
-	"championships": [],
-	"raceWins": 0,
-	"podiums": 0,
-	"image": "/assets/images/drivers/pastor_maldonado.jpg"
 }
 ]
