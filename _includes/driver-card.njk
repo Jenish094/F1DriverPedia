@@ -1,7 +1,7 @@
 <article class="driver-card">
   <a href="{{ site.baseUrl }}drivers/{{ driver.driverId }}/">
     {% if driver.image %}
-      <img src="{{ site.baseUrl }}{{ driver.image }}" alt="Photo of {{ driver | fullName }}" class="driver-thumb" />
+      <img src="{{ site.baseUrl }}{{ driver.image | trimLeadingSlash }}" alt="Photo of {{ driver | fullName }}" class="driver-thumb" />
     {% endif %}
     <h3>{{ driver | fullName }}</h3>
   </a>

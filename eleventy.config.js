@@ -1,6 +1,10 @@
 module.exports = function (eleventyConfig) {
 	// assets folder
 	eleventyConfig.addPassthroughCopy("assets");
+	eleventyConfig.addFilter("trimLeadingSlash", (s) => {
+		if (!s) return s;
+		return (typeof s === 'string' && s.startsWith('/')) ? s.slice(1) : s;
+	});
 
 	eleventyConfig.addFilter("readableDate", (dateObj) => {
 		try {
