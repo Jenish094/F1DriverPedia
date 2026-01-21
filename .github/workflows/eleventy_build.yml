@@ -21,7 +21,7 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Setup Node.js environment
-      uses: actions/setup-node@v1.4.1
+      uses: actions/setup-node@v6
 
     - name: Install packages
       run: npm ci
@@ -30,9 +30,9 @@ jobs:
       run: npm run build
 
     - name: Deploy to gh-pages
-      uses: peaceiris/actions-gh-pages@v3
+      uses: peaceiris/actions-gh-pages@v4
       with:
-        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY_JENISHPC }}
         publish_dir: ./_site
         publish_branch: gh-pages
 
