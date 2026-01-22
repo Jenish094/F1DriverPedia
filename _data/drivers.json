@@ -59,6 +59,7 @@
 			"Honda",
 			"McLaren-Mercedes",
 			"Mercedes",
+			"McLaren-Honda",
 			"Williams-BMW"
 		],
 		"championships": [2009],
@@ -562,7 +563,7 @@
 	"dateOfBirth": "1981-07-29",
 	"careerYears": "2001, 2003-2018, 2021-2026",
     "years": [2001, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2021, 2022, 2023, 2024, 2025, 2026],
-	"bio": "NANDOOOO the goat rookie alonso who raced for minardi, renault (team endstone), mclaren, ferarri and astion martin",
+	"bio": "NANDOOOO the goat rookie alonso who raced for minardi, renault (team endstone), mclaren, Ferrari and astion martin",
 	"constructors": [
         "Minardi-European",
         "Renault",
@@ -873,8 +874,8 @@
 	"bio": "An italian Formula One driver who raced in Red bull in their first year then in the junior team torro rosso before going to force india then HRT (with my beloved daniel riccardo)",
 	"constructors": [
 		"Red Bull-Cosworth",
-		"Torro Rosso-Cosworth",
-		"Torro Rosso-Ferrari",
+		"Toro Rosso-Cosworth",
+		"Toro Rosso-Ferrari",
 		"Force India-Mercedes",
 		"HRT-Cosworth"
 	],
@@ -1084,7 +1085,7 @@
     "years": [2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
 	"bio": "A British Formula One driver who is a seven time World Champion for McLaren and Mercedes and is statistically one of the most successful drivers in F1 history with Michael Schumacher",
 	"constructors": [
-		"Mclaren-Mercedes",
+		"McLaren-Mercedes",
 		"Mercedes",
 		"Ferrari"
 	],
@@ -1129,7 +1130,7 @@
 	"bio": "Four Time German World Champion in Formula One at Red Bull from 2010 to 2013, known for his aggressive driving style and precision.",
 	"constructors": [
 		"BMW Sauber",
-		"Torro Rosso-Ferrari",
+		"Toro Rosso-Ferrari",
 		"Red Bull-Renault",
 		"Ferrari",
 		"Astion Martin-Mercedes"
@@ -1269,9 +1270,9 @@
 	"dateOfBirth": "1979-02-28",
 	"careerYears": "2008-2009",
     "years": [2008, 2009],
-	"bio": "A French Formula One driver who raced for Torro Rosso in 2008/2009",
+	"bio": "A French Formula One driver who raced for Toro Rosso in 2008/2009",
 	"constructors": [
-		"Torro Rosso-Ferrari"
+		"Toro Rosso-Ferrari"
 	],
 	"championships": [],
 	"raceWins": 0,
@@ -1441,9 +1442,9 @@
 	"code": "PER",
 	"permanentNumber": 11,
 	"dateOfBirth": "1990-01-26",
-	"careerYears": "2011-2024, 2026",
-    "years": [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2026],
-	"bio": "SEGIOOOO PEREZZ The Mexican Minister of Defence raced for Sauber, Mclaren, Force India/Racing Point then to Red Bull for his insane defence for Max until he didn't land a seat in 2025 and is returned with Cadillac for 2026",
+	"careerYears": "2011-2024, 2026-2027",
+    "years": [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2026, 2027],
+	"bio": "SEGIOOOO PEREZZ The Mexican Minister of Defence raced for Sauber, McLaren, Force India/Racing Point then to Red Bull for his insane defence for Max until he didn't land a seat in 2025 and is returned with Cadillac for 2026",
 	"constructors": [
 		"Sauber-Ferrari",
 		"McLaren-Mercedes",
@@ -1469,14 +1470,15 @@
 	"dateOfBirth": "1989-07-01",
 	"careerYears": "2011-2023",
     "years": [2011, 2012, 2013, 2014, 2015],
-	"bio": "Daniel my beloved, the honey badger raced for HRT, Toro Rosso, Red Bull, Renault (dumb descision btw), Mclaren and AlphaTauri/RB before getting kicked off at 1:46am on september 23, 2024",
+	"bio": "Daniel my beloved, the honey badger raced for HRT, Toro Rosso, Red Bull, Renault (dumb descision btw), McLaren and AlphaTauri/RB before getting kicked off at 1:46am on september 23, 2024",
 	"constructors": [
 		"HRT-Cosworth",
 		"Toro Rosso-Ferrari",
 		"Red Bull-Renault",
 		"Red Bull Racing-TAG Heuer",
 		"Renault",
-		"McLaren Mercedes",
+		"McLaren-Renault",
+		"McLaren-Mercedes",
 		"AlphaTauri-Honda RBPT",
 		"RB-Honda RBPT"
 	],
@@ -1568,6 +1570,7 @@
 	"familyName": "Gutierrez",
 	"nationality": "Mexican",
 	"code": "GUT",
+	"permanentNumber": 28,
 	"dateOfBirth": "1991-08-05",
 	"careerYears": "2013-2014, 2016",
     "years": [2013, 2014, 2016],
@@ -1587,6 +1590,7 @@
 	"familyName": "Bianchi",
 	"nationality": "French",
 	"code": "BIA",
+	"permanentNumber": 17,
 	"dateOfBirth": "1989-08-03",
 	"careerYears": "2013-2014",
     "years": [2013, 2014],
@@ -1605,6 +1609,7 @@
 	"familyName": "Chilton",
 	"nationality": "British",
 	"code": "CHI",
+	"permanentNumber": 4,
 	"dateOfBirth": "1991-04-21",
 	"careerYears": "2013-2014",
     "years": [2013, 2014],
@@ -1641,6 +1646,7 @@
 	"familyName": "Vergne",
 	"nationality": "French",
 	"code": "VER",
+	"permanentNumber": 25,
 	"dateOfBirth": "1985-12-06",
 	"careerYears": "2012-2014",
     "years": [2012, 2013, 2014],
@@ -1659,9 +1665,10 @@
 	"familyName": "Bottas",
 	"nationality": "Finnish",
 	"code": "BOT",
+	"permanentNumber": 77,
 	"dateOfBirth": "1989-08-28",
-	"careerYears": "2013-2024, 2026",
-    "years": [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2026],
+	"careerYears": "2013-2024, 2026-2027",
+    "years": [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2026, 2027],
 	"bio": "An AUSSIE formula one driver who happens to live in the same city as me raced for Williams, Mercedes and Alfa Romeo/Sauber before becoming the reserve driver for Mercedes in 2025 and will return with checo in 2026 with cadillac",
 	"constructors": [
 		"Williams-Mercedes",
@@ -1674,5 +1681,870 @@
 	"raceWins": 10,
 	"podiums": 67,
 	"image": "/assets/images/drivers/valterri_bottas.jpg"
+},
+{
+	"driverId": "marcus_ericsson",
+	"givenName": "Marcus",
+	"familyName": "Ericsson",
+	"nationality": "Swedish",
+	"code": "ERI",
+	"permanentNumber": 9,
+	"dateOfBirth": "1990-09-02",
+	"careerYears": "2014-2018",
+    "years": [2014, 2015, 2016, 2017, 2018],
+	"bio": "A Swedish Formula One driver who raced for Caterham and Sauber",
+	"constructors": [
+		"Caterham-Renault",
+		"Sauber-Ferrari"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/marcus_ericsson.jpg"
+},
+{
+	"driverId": "will_stevens",
+	"givenName": "Will",
+	"familyName": "Stevens",
+	"nationality": "British",
+	"code": "STE",
+	"permanentNumber": 27,
+	"dateOfBirth": "1991-06-28",
+	"careerYears": "2014-2015",
+    "years": [2014, 2015],
+	"bio": "A British Formula One driver who raced for Caterham and Marussia.",
+	"constructors": [
+		"Caterham-Renault",
+		"Marussia-Ferrari"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/will_stevens.jpg"
+},
+{
+	"driverId": "andre_lotterer",
+	"givenName": "André",
+	"familyName": "Lotterer",
+	"nationality": "German",
+	"code": "LOT",
+	"permanentNumber": 16,
+	"dateOfBirth": "1981-11-19",
+	"careerYears": "2014",
+    "years": [2014],
+	"bio": "A German Formula One driver who raced for Caterham for 1 race.",
+	"constructors": [
+		"Caterham-Renault"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/andre_lotterer.jpg"
+},
+{
+	"driverId": "alexander_rossi",
+	"givenName": "Alexander",
+	"familyName": "Rossi",
+	"nationality": "American",
+	"code": "ROS",
+	"permanentNumber": 27,
+	"dateOfBirth": "1991-09-25",
+	"careerYears": "2014-2015",
+    "years": [2014, 2015],
+	"bio": "An American F1 driver who raced for Marussia.",
+	"constructors": [
+		"Marussia-Ferrari"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/alexander_rossi.jpg"
+},
+{
+	"driverId": "kevin_magnussen",
+	"givenName": "Kevin",
+	"familyName": "Magnussen",
+	"nationality": "Danish",
+	"code": "MAG",
+	"permanentNumber": 20,
+	"dateOfBirth": "1992-10-05",
+	"careerYears": "2014-2020, 2022-2024",
+    "years": [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023, 2024],
+	"bio": "Suck my balls mate",
+	"constructors": [
+		"McLaren-Mercedes",
+		"McLaren-Honda",
+		"Renault",
+		"Haas-Ferrari"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 1,
+	"image": "/assets/images/drivers/kevin_magnussen.jpg"
+},
+{
+	"driverId": "daniil_kvyat",
+	"givenName": "Daniil",
+	"familyName": "Kvyat",
+	"nationality": "Russian",
+	"code": "KVY",
+	"permanentNumber": 26,
+	"dateOfBirth": "1994-04-26",
+	"careerYears": "2014-2017, 2019-2020",
+    "years": [2014, 2015, 2016, 2017, 2019, 2020],
+	"bio": "My guy had got demoted because of Max, had his wife taken by max and even his child taken by max.",
+	"constructors": [
+		"Toro Rosso-Renault",
+		"Red Bull-Renault",
+		"Red Bull Racing-TAG Heuer",
+		"Toro Rosso",
+		"Scuderia Toro Rosso-Honda",
+		"AlphaTauri-Honda"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 3,
+	"image": "/assets/images/drivers/daniil_kvyat.jpg"
+},
+{
+	"driverId": "roberto_merhi",
+	"givenName": "Roberto",
+	"familyName": "Merhi",
+	"nationality": "Spanish",
+	"code": "MER",
+	"permanentNumber": 98,
+	"dateOfBirth": "1991-03-22",
+	"careerYears": "2015",
+    "years": [2015],
+	"bio": "A Spanish Formula One driver who raced for Marussia.",
+	"constructors": [
+		"Marussia-Ferrari"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/roberto_merhi.jpg"
+},
+{
+	"driverId": "felipe_nasr",
+	"givenName": "Felipe",
+	"familyName": "Nasr",
+	"nationality": "Brazilian",
+	"code": "NAS",
+	"permanentNumber": 12,
+	"dateOfBirth": "1991-03-22",
+	"careerYears": "2015-2016",
+    "years": [2015, 2016],
+	"bio": "A Brazilian Formula One driver who raced for Sauber.",
+	"constructors": [
+		"Sauber-Ferrari"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/felipe_nasr.jpg"
+},
+{
+	"driverId": "max_verstappen",
+	"givenName": "Max",
+	"familyName": "Verstappen",
+	"nationality": "Dutch",
+	"code": "VER",
+	"permanentNumber": [33, 3],
+	"dateOfBirth": "1997-09-30",
+	"careerYears": "2015-2028",
+    "years": [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027, 2028],
+	"bio": "4 time world champion (shouldve been 5) and the best driver on the grid currently racing for Red Bull Racing. MV3 will become MV1 in 2027",
+	"constructors": [
+		"Toro Rosso-Renault",
+		"Toro Rosso-Ferrari",
+		"Red Bull Racing-TAG Heuer",
+		"Red Bull Racing-Honda",
+		"Red Bull Racing-RBPT",
+		"Red Bull Racing-Honda RBPT"
+	],
+	"championships": [2021, 2022, 2023, 2024],
+	"raceWins": 71,
+	"podiums": 127,
+	"image": "/assets/images/drivers/max_verstappen.jpg"
+},
+{
+	"driverId": "carlos_sainz_jr",
+	"givenName": "Carlos",
+	"familyName": "Sainz Jr.",
+	"nationality": "Spanish",
+	"code": "SAI",
+	"permanentNumber": 55,
+	"dateOfBirth": "1994-09-01",
+	"careerYears": "2015-2026",
+    "years": [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+	"bio": "Smooth Operator",
+	"constructors": [
+		"Toro Rosso-Renault",
+		"Toro Rosso-Ferrari",
+		"Renault",
+		"McLaren-Renault",
+		"Ferrari",
+		"Williams-Mercedes",
+		"Atlassian Williams-Mercedes"
+	],
+	"championships": [],
+	"raceWins": 4,
+	"podiums": 29,
+	"image": "/assets/images/drivers/carlos_sainz_jr.jpg"
+},
+{
+	"driverId": "stoffel_vandoorne",
+	"givenName": "Stoffel",
+	"familyName": "Vandoorne",
+	"nationality": "Belgian",
+	"code": "VAN",
+	"permanentNumber": 2,
+	"dateOfBirth": "1992-03-26",
+	"careerYears": "2016-2018",
+    "years": [2016, 2017, 2018],
+	"bio": "A Belgian Formula One driver who raced for McLaren.",
+	"constructors": [
+		"McLaren-Honda"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/stoffel_vandoorne.jpg"
+},
+{
+	"driverId": "rio_haryanto",
+	"givenName": "Rio",
+	"familyName": "Haryanto",
+	"nationality": "Indonesian",
+	"code": "HAR",
+	"permanentNumber": 88,
+	"dateOfBirth": "1993-01-22",
+	"careerYears": "2016",
+    "years": [2016],
+	"bio": "An Indonesian Formula One driver who raced for Manor.",
+	"constructors": [
+		"MRT-Mercedes"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/rio_haryanto.jpg"
+},
+{
+	"driverId": "esteban_ocon",
+	"givenName": "Esteban",
+	"familyName": "Ocon",
+	"nationality": "French",
+	"code": "OCO",
+	"permanentNumber": 31,
+	"dateOfBirth": "1996-09-17",
+	"careerYears": "2016-2018, 2020-2027",
+    "years": [2016, 2017, 2018, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027],
+	"bio": "https://youtu.be/TbIm2wj0Krk?t=4",
+	"constructors": [
+		"MRT-Mercedes",
+		"Force India-Mercedes",
+		"Renault",
+		"Alpine-Renault",
+		"Haas-Ferrari"
+	],
+	"championships": [],
+	"raceWins": 1,
+	"podiums": 4,
+	"image": "/assets/images/drivers/esteban_ocon.jpg"
+},
+{
+	"driverId": "pascal_wehrlein",
+	"givenName": "Pascal",
+	"familyName": "Wehrlein",
+	"nationality": "German",
+	"code": "WEH",
+	"permanentNumber": 94,
+	"dateOfBirth": "1994-10-20",
+	"careerYears": "2016-2017",
+    "years": [2016, 2017],
+	"bio": "A German Formula One driver who raced for Manor and Sauber.",
+	"constructors": [
+		"MRT-Mercedes",
+		"Sauber-Ferrari"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/pascal_wehrlein.jpg"
+},
+{
+	"driverId": "jolyon_palmer",
+	"givenName": "Jolyon",
+	"familyName": "Palmer",
+	"nationality": "British",
+	"code": "PAL",
+	"permanentNumber": 30,
+	"dateOfBirth": "1991-01-20",
+	"careerYears": "2016-2017",
+    "years": [2016, 2017],
+	"bio": "karma - Fernando Alonso",
+	"constructors": [
+		"Renault"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/jolyon_palmer.jpg"
+},
+
+{
+	"driverId": "antonio_giovinazzi",
+	"givenName": "Antonio",
+	"familyName": "Giovinazzi",
+	"nationality": "Italian",
+	"code": "GIO",
+	"permanentNumber": 99,
+	"dateOfBirth": "1993-12-14",
+	"careerYears": "2017, 2019-2021",
+    "years": [2017, 2019, 2020, 2021],
+	"bio": "An Italian Formula One driver who raced for Sauber/Alfa Romeo.",
+	"constructors": [
+		"Sauber-Ferrari",
+		"Alfa Romeo Racing-Ferrari"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/antonio_giovinazzi.jpg"
+},
+{
+	"driverId": "brendon_hartley",
+	"givenName": "Brendon",
+	"familyName": "Hartley",
+	"nationality": "New Zealander",
+	"code": "HAR",
+	"permanentNumber": 28,
+	"dateOfBirth": "1989-11-10",
+	"careerYears": "2017=2018",
+    "years": [2017, 2018],
+	"bio": "A New Zealander Formula One driver who raced for Toro Rosso",
+	"constructors": [
+		"Toro Rosso",
+		"Scuderia Toro Rosso-Honda"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/brendon_hartley.jpg"
+},
+{
+	"driverId": "lance_stroll",
+	"givenName": "Lance",
+	"familyName": "Stroll",
+	"nationality": "Canadian",
+	"code": "STR",
+	"permanentNumber": 18,
+	"dateOfBirth": "1998-10-29",
+	"careerYears": "2017-2026",
+    "years": [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+	"bio": "The GOAT driver, he will always be my favorite. I dont care what you say hes the best F1 driver, incoming 2026 WDC",
+	"constructors": [
+		"Williams-Mercedes",
+		"Racing Point-BWT Mercedes",
+		"Astion Martin-Mercedes",
+		"Astion Martin Aramco-Mercedes",
+		"Astion Martin Aramco-Honda"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 3,
+	"image": "/assets/images/drivers/lance_stroll.jpg"
+},
+{
+	"driverId": "nico_hulkenberg",
+	"givenName": "Nico",
+	"familyName": "Hülkenberg",
+	"nationality": "German",
+	"code": "HUL",
+	"permanentNumber": 27,
+	"dateOfBirth": "1987-08-19",
+	"careerYears": "2010, 2012-2020, 2022-2026",
+    "years": [2010, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023, 2024, 2025, 2026],
+	"bio": "Nico Huuullkenburg who got more podiums than 7 time world champion Lewis Hamilton in 2025",
+	"constructors": [
+		"Williams-Mercedes",
+		"Force India-Mercedes",
+		"Renault",
+		"Racing Point-BWT Mercedes",
+		"Aston Martin Aramco-Mercedes",
+		"Haas-Ferrari",
+		"Kick Sauber-Ferrari",
+		"Audi"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 1,
+	"image": "/assets/images/drivers/nico_hulkenberg.jpg"
+},
+{
+	"driverId": "sergey_sirotkin",
+	"givenName": "Sergey",
+	"familyName": "Sirotkin",
+	"nationality": "Russian",
+	"code": "SIR",
+	"permanentNumber": 35,
+	"dateOfBirth": "1995-10-27",
+	"careerYears": "2018",
+    "years": [2018],
+	"bio": "A Russian Formula One driver who raced for Williams.",
+	"constructors": [
+		"Williams-Mercedes"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/sergey_sirotkin.jpg"
+},
+{
+	"driverId": "george_russell",
+	"givenName": "George",
+	"familyName": "Russell",
+	"nationality": "British",
+	"code": "RUS",
+	"permanentNumber": 63,
+	"dateOfBirth": "1998-02-15",
+	"careerYears": "2019-2027",
+    "years": [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027],
+	"bio": "Professional Terrorist Osama Bin Russell",
+	"constructors": [
+		"Williams-Mercedes",
+		"Mercedes"
+	],
+	"championships": [],
+	"raceWins": 5,
+	"podiums": 24,
+	"image": "/assets/images/drivers/george_russell.jpg"
+},
+{
+	"driverId": "alex_albon",
+	"givenName": "Alex",
+	"familyName": "Albon",
+	"nationality": "Thai",
+	"code": "ALB",
+	"permanentNumber": 23,
+	"dateOfBirth": "1996-03-23",
+	"careerYears": "2019-2020, 2022-2027",
+    "years": [2019, 2020, 2022, 2023, 2024, 2025, 2026, 2027],
+	"bio": "A Thai-British Formula One driver who raced for Toro Rosso, Red Bull and Williams",
+	"constructors": [
+		"Scuderia Toro Rosso-Honda",
+		"Red Bull Racing-Honda",
+		"Williams-Mercedes",
+		"Atlassian Williams-Mercedes"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 2,
+	"image": "/assets/images/drivers/alex_albon.jpg"
+},
+{
+	"driverId": "lando_norris",
+	"givenName": "Lando",
+	"familyName": "Norris",
+	"nationality": "British",
+	"code": "NOR",
+	"permanentNumber": 4,
+	"dateOfBirth": "1999-11-13",
+	"careerYears": "2019-2027",
+    "years": [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027],
+	"bio": "Bottle o` Norris, Zak Browns boyfriend (you can tell i dont like him)",
+	"constructors": [
+		"McLaren-Renault",
+		"McLaren-Mercedes"
+	],
+	"championships": [2025],
+	"raceWins": 11,
+	"podiums": 44,
+	"image": "/assets/images/drivers/lando_norris.jpg"
+},
+{
+	"driverId": "pierto_fittipaldi",
+	"givenName": "Pierto",
+	"familyName": "Fittipaldi",
+	"nationality": "Brazilian",
+	"code": "FIT",
+	"permanentNumber": 51,
+	"dateOfBirth": "1996-06-25",
+	"careerYears": "2020",
+    "years": [2020],
+	"bio": "Grandson of two time world champion Emerson Fittipaldi, Pierto raced for Haas in 2020 replacing Romain Grosjean for the final 2 races",
+	"constructors": [
+		"Haas-Ferrari"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/pierto_fittipaldi.jpg"
+},
+{
+	"driverId": "jack_aitken",
+	"givenName": "Jack",
+	"familyName": "Aitken",
+	"nationality": "British",
+	"code": "AIT",
+	"permanentNumber": 89,
+	"dateOfBirth": "1993-12-14",
+	"careerYears": "2020",
+    "years": [2020],
+	"bio": "The guy from that one Max Fosh video, he raced for williams replacing George Russell who replaced Lewis Hamilton",
+	"constructors": [
+		"Williams-Mercedes"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/jack_aitken.jpg"
+},
+{
+	"driverId": "nicholas_latifi",
+	"givenName": "Nicholas",
+	"familyName": "Latifi",
+	"nationality": "Canadian",
+	"code": "LAT",
+	"permanentNumber": 6,
+	"dateOfBirth": "1994-06-29",
+	"careerYears": "2020-2022",
+    "years": [2020, 2021, 2022],
+	"bio": "Goatifi who graduated from London Business School",
+	"constructors": [
+		"Williams-Mercedes"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/nicholas_latifi.jpg"
+},
+{
+	"driverId": "yuki_tsunoda",
+	"givenName": "Yuki",
+	"familyName": "Tsunoda",
+	"nationality": "Japanese",
+	"code": "TSU",
+	"permanentNumber": 22,
+	"dateOfBirth": "2000-05-11",
+	"careerYears": "2021-2025",
+    "years": [2021, 2022, 2023, 2024, 2025],
+	"bio": "Checo 2021 level defense at abu dhabi 2025",
+	"constructors": [
+		"AlphaTauri-Honda",
+		"AlphaTauri-RBPT",
+		"AlphaTauri-Honda RBPT",
+		"RB-Honda RBPT",
+		"Racing Bulls-Honda RBPT",
+		"Red Bull Racing-Honda RBPT"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/yuki_tsunoda.jpg"
+},
+{
+	"driverId": "pierre_gasly",
+	"givenName": "Pierre",
+	"familyName": "Gasly",
+	"nationality": "French",
+	"code": "GAS",
+	"permanentNumber": 10,
+	"dateOfBirth": "1996-02-07",
+	"careerYears": "2017-2028",
+    "years": [2017, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027, 2028],
+	"bio": "A French Formula One driver who raced for Toro Rosso, Red bull and alpine",
+	"constructors": [
+		"Toro Rosso",
+		"Scuderia Toro Rosso-Honda",
+		"Red Bull Racing-Honda",
+		"AlphaTauri-Honda",
+		"AlphaTauri-RBPT",
+		"Alpine-Renault",
+		"Alpine-Mercedes"
+	],
+	"championships": [],
+	"raceWins": 1,
+	"podiums": 5,
+	"image": "/assets/images/drivers/pierre_gasly.jpg"
+},
+{
+	"driverId": "nikita_mazepin",
+	"givenName": "Nikita",
+	"familyName": "Mazepin",
+	"nationality": "Russian Automobile Federation",
+	"code": "MAZ",
+	"permanentNumber": 9,
+	"dateOfBirth": "1999-03-02",
+	"careerYears": "2021",
+    "years": [2021],
+	"bio": "Mazespin",
+	"constructors": [
+		"Haas-Ferrari"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/nikita_mazepin.jpg"
+},
+{
+	"driverId": "mick_schumacher",
+	"givenName": "Mick",
+	"familyName": "Schumacher",
+	"nationality": "German",
+	"code": "MSC",
+	"permanentNumber": 47,
+	"dateOfBirth": "1999-03-02",
+	"careerYears": "2021-2022",
+    "years": [2021, 2022],
+	"bio": "Son of 7 time world champion Michael Schumacher, Mick raced for Haas in 2021 and 2022",
+	"constructors": [
+		"Haas-Ferrari"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/mick_schumacher.jpg"
+},
+{
+	"driverId": "charles_leclerc",
+	"givenName": "Charles",
+	"familyName": "Leclerc",
+	"nationality": "Monegasque",
+	"code": "LEC",
+	"permanentNumber": 16,
+	"dateOfBirth": "1997-10-16",
+	"careerYears": "2018-2028",
+    "years": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027, 2028],
+	"bio": "HE WINS IN SPA, HE WINS IN MONZA https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK1UWRuQ22CtElGbPA9WqEcgPi8S_CsL6BDw&s",
+	"constructors": [
+		"Sauber-Ferrari",
+		"Ferrari"
+	],
+	"championships": [],
+	"raceWins": 8,
+	"podiums": 50,
+	"image": "/assets/images/drivers/charles_leclerc.jpg"
+},
+{
+	"driverId": "zhou_guanyu",
+	"givenName": "Guanyu",
+	"familyName": "Zhou",
+	"nationality": "Chinese",
+	"code": "ZHO",
+	"permanentNumber": 24,
+	"dateOfBirth": "1999-05-30",
+	"careerYears": "2022-2024",
+    "years": [2022, 2023, 2024],
+	"bio": "The first Chinese driver to compete in Formula One, racing for Alfa Romeo/Sauber.",
+	"constructors": [
+		"Alfa Romeo-Ferrari",
+		"Kick Sauber-Ferrari"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/zhou_guanyu.jpg"
+},
+{
+	"driverId": "nyck_de_vries",
+	"givenName": "Nyck",
+	"familyName": "de Vries",
+	"nationality": "Dutch",
+	"code": "VRI",
+	"permanentNumber": 21,
+	"dateOfBirth": "1995-02-06",
+	"careerYears": "2022-2023",
+    "years": [2022, 2023],
+	"bio": "A Dutch Formula One driver who made his debut replacing Albon at Williams then raced at AlphaTauri for 2023",
+	"constructors": [
+		"Williams-Mercedes",
+		"AlphaTauri-Honda RBPT"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/nyck_de_vries.jpg"
+},
+{
+	"driverId": "oscar_piastri",
+	"givenName": "Oscar",
+	"familyName": "Piastri",
+	"nationality": "Australian",
+	"code": "PIA",
+	"permanentNumber": 81,
+	"dateOfBirth": "2001-04-06",
+	"careerYears": "2023-present",
+    "years": [2023],
+	"bio": "Supposed to win in 2025 until papaya rules",
+	"constructors": [
+		"McLaren-Mercedes"
+	],
+	"championships": [],
+	"raceWins": 9,
+	"podiums": 26,
+	"image": "/assets/images/drivers/oscar_piastri.jpg"
+},
+{
+	"driverId": "liam_lawson",
+	"givenName": "Liam",
+	"familyName": "Lawson",
+	"nationality": "New Zealander",
+	"code": "LAW",
+	"permanentNumber": 30,
+	"dateOfBirth": "2002-02-11",
+	"careerYears": "2023-2026",
+    "years": [2023, 2024, 2025, 2026],
+	"bio": "Had 11 races and is still a 2025 rookie",
+	"constructors": [
+		"AlphaTauri-Honda RBPT",
+		"RB-Honda RBPT",
+		"Red Bull Racing-Honda RBPT",
+		"Racing Bulls-Honda RBPT"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/liam_lawson.jpg"
+},
+{
+	"driverId": "logan_sargeant",
+	"givenName": "Logan",
+	"familyName": "Sargeant",
+	"nationality": "American",
+	"code": "SAR",
+	"permanentNumber": 2,
+	"dateOfBirth": "2000-12-31",
+	"careerYears": "2023-2024",
+    "years": [2023, 2024],
+	"bio": "An American Formula One driver who raced for Williams.",
+	"constructors": [
+		"Williams-Mercedes"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/logan_sargeant.jpg"
+},
+{
+	"driverId": "jack_doohan",
+	"givenName": "Jack",
+	"familyName": "Doohan",
+	"nationality": "Australian",
+	"code": "DOO",
+	"permanentNumber": 5,
+	"dateOfBirth": "1999-01-03",
+	"careerYears": "2024-2025",
+    "years": [2024, 2025],
+	"bio": "Deserves another chance",
+	"constructors": [
+		"Alpine-Renault"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/jack_doohan.jpg"
+},
+{
+	"driverId": "oliver_bearman",
+	"givenName": "Oliver",
+	"familyName": "Bearman",
+	"nationality": "British",
+	"code": "BEA",
+	"permanentNumber": 87,
+	"dateOfBirth": "2004-12-14",
+	"careerYears": "2023-2026",
+    "years": [2023, 2024, 2025, 2026],
+	"bio": "Inspector Ollie. 87 https://www.instagram.com/reel/DRagKhVD6Vs/?hl=en",
+	"constructors": [
+		"Ferrari",
+		"Hass-Ferrari"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/oliver_bearman.jpg"
+},
+{
+	"driverId": "franco_colapinto",
+	"givenName": "Franco",
+	"familyName": "Colapinto",
+	"nationality": "Argentine",
+	"code": "COL",
+	"permanentNumber": 4,
+	"dateOfBirth": "2003-05-27",
+	"careerYears": "2024-2026",
+    "years": [2024, 2025, 2026],
+	"bio": "An Argentine Formula One driver who drove for Williams and Alpine and tried to call out Stroll for being bad but then got flamed for not scoring points",
+	"constructors": [
+		"Williams-Mercedes",
+		"Alpine-Renault",
+		"Alpine-Mercedes"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/franco_colapinto.jpg"
+},
+{
+	"driverId": "gabriel_bortoleto",
+	"givenName": "Gabriel",
+	"familyName": "Bortoleto",
+	"nationality": "Brazilian",
+	"code": "BOR",
+	"permanentNumber": 5,
+	"dateOfBirth": "2004-10-14",
+	"careerYears": "2025-2027",
+    "years": [2025, 2026, 2027],
+	"bio": "A Brazilian F1 driver who is racing for Sauber/Audi",
+	"constructors": [
+		"Kick Sauber-Ferrari",
+		"Audi"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 0,
+	"image": "/assets/images/drivers/gabriel_bortoleto.jpg"
+},
+{
+	"driverId": "kimi_antonelli",
+	"givenName": "Kimi",
+	"familyName": "Antonelli",
+	"nationality": "Italian",
+	"code": "ANT",
+	"permanentNumber": 12,
+	"dateOfBirth": "2006-08-25",
+	"careerYears": "2024-2026",
+    "years": [2024, 2025, 2026],
+	"bio": "Kimi Talibantonelli",
+	"constructors": [
+		"Mercedes"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 3,
+	"image": "/assets/images/drivers/kimi_antonelli.jpg"
+},
+{
+	"driverId": "isack_hadjar",
+	"givenName": "Isack",
+	"familyName": "Hadjar",
+	"nationality": "French",
+	"code": "HAD",
+	"permanentNumber": 6,
+	"dateOfBirth": "2004-09-28",
+	"careerYears": "2025-2026",
+    "years": [2025, 2026],
+	"bio": "I destroyed the car",
+	"constructors": [
+		"Racing Bulls-Honda RBPT",
+		"Red Bull Racing-Honda RBPT"
+	],
+	"championships": [],
+	"raceWins": 0,
+	"podiums": 1,
+	"image": "/assets/images/drivers/isack_hadjar.jpg"
 }
 ]
