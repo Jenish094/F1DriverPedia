@@ -26,6 +26,9 @@ jobs:
     - name: Install packages
       run: npm ci
 
+    - name: add env for baseurl based on the repo's name for forkers. IF .env exists, this will be overriden
+      run: echo "SITEBASEURL=/${{ github.event.repository.name }}/" >> $GITHUB_ENV
+
     - name: Run npm build
       run: npm run build
 
